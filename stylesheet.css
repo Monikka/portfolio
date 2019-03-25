@@ -1,0 +1,67 @@
+  body {
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', Georgia, Times, serif;
+    font-weight: bold;
+  }
+
+  p, div {
+    font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+  }
+
+  .margin {margin-bottom: 45px;}
+  .img-margin {margin-top: 45px; margin-bottom: 35px;}
+  .bg-black {
+    background-color: black;
+  }
+
+  .bg-aqua {
+    background-color: #DFF8F9; /* Aqua Blue */
+  }
+
+  .text-aqua {
+    color: #67DEE5;
+  }
+  .bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+  .bg-4 {
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    -webkit-box-shadow: 0 8px 6px -6px #999;
+    -moz-box-shadow: 0 8px 6px -6px #999;
+    box-shadow: 0 8px 6px -6px #999;
+    /* letter-spacing: 5px; */
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  .social-icons a {
+    display:inline-block;height:3.5rem;width:3.5rem;background-color:#495057;
+    color:#fff!important;
+    border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.5rem;margin-right:1rem
+  }
+  .social-icons a:last-child {margin-right:0}
+  .social-icons a:hover{background-color:#1abc9c}
