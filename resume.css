@@ -61,7 +61,8 @@ logo {
 }
 
 hr.style {
-	border-top: 1px dotted #8c8b8b;
+	border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #fff;
 }
 
 hr.style-gradient {
